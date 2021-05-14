@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joker-coder-crpto
-- 👀 I’m interested in ...learning termux...! Everything about termix
+- 👀 I’m interested in ...learning termux...! Everything about termux
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...hacking
 - 📫 How to reach me .....! 
