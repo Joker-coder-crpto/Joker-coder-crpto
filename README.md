@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Joker-coder-crpto
-- 👀 I’m interested in ...learning termux...! Everything about termix
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...hacking
+- 👀 I’m interested in AIML
+- 🌱 I’m currently learning python & ANimation
+- 💞️ I’m looking to collaborate on Gamie stuffz
 - 📫 How to reach me .....! 
 
 <!---
